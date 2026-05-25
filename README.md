@@ -68,10 +68,10 @@ Beyond code, I bring a strategic mindset, combining software development with ex
 ### 🎓 Education:
 - 📖 **Information Systems** - FIAP (Ongoing)
 
-### 📊 My GitHub progress:
+### 📊 Meu progresso no GitHub:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=molz3ra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molz3ra&layout=donut&theme=dracula&langs_count=6" alt="Top Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=molz3ra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=molz3ra&layout=donut&theme=dracula&langs_count=6" alt="Linguagens mais usadas"/>
 </div>
 
 ### 📫 How to reach me:
